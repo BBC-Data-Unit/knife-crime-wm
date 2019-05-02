@@ -22,3 +22,7 @@ TBC
 ## Visualisation
 
 * Column chart: knife crimes in the West Midlands, 2013-2018
+
+## Related stories 
+
+* You can find other knife crime-related stories [tagged 'knifecrime' in our GitHub](https://github.com/search?q=topic%3Aknifecrime+org%3ABBC-Data-Unit&type=Repositories)
